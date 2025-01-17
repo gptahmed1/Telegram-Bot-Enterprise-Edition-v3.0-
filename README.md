@@ -33,7 +33,7 @@
 
 1. استنسخ المستودع:
 ```bash
-git clone [رابط-المستودع]
+git clone https://github.com/gptahmed1/Telegram-Bot-Enterprise-Edition-v3.0-/
 cd telegram-bot-enterprise
 ```
 
