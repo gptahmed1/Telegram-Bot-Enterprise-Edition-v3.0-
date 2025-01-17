@@ -41,7 +41,7 @@ VERSION = "3.0 Enterprise"
 class EnhancedConfig:
     """مدير الإعدادات المتقدم"""
     def __init__(self):
-        self.TOKEN = '7347106264:AAHVAcF0RjC-OXukf8DjrjPb_4TuYD9LiZA'
+        self.TOKEN = 'توكن بوت التليجرام'
         self.MESSAGE_LIMIT = 4096
         self.RETRY_DELAY = 5
         self.MAX_RETRIES = 5
